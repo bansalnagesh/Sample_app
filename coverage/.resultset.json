@@ -1,0 +1,27 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/bansalnagesh/Documents/online/rails_project/sample_app/app/controllers/static_pages_controller.rb": [
+        1,
+        1,
+        null,
+        null,
+        1,
+        null,
+        null,
+        1,
+        null,
+        null,
+        1,
+        null,
+        null
+      ],
+      "/Users/bansalnagesh/Documents/online/rails_project/sample_app/app/controllers/application_controller.rb": [
+        1,
+        1,
+        null
+      ]
+    },
+    "timestamp": 1408888580
+  }
+}
